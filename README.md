@@ -13,3 +13,7 @@ WHAT's NEXT
 -----------
 
 Hopefully, my design does not frighten you, and we can meet in person.
+
+My contacts: 
+  * E-mail rainbowworldisinyou@gmail.com
+  * Phone +380982086862
