@@ -70,7 +70,7 @@ public class Main {
 				usdSummary += (oi.getPrice() / map.get(oi.getValut()));
 			}
 		}
-		System.out.println(map.get(valut.toUpperCase()) * usdSummary);
+		System.out.printf("%.2f", map.get(valut.toUpperCase()) * usdSummary);
 	}
 
 	private static void clearCommand(String date) {
