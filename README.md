@@ -10,6 +10,7 @@ Or, having opened in the development environment(I used Eclipse IDE) two files -
 If there is an error while writing the commands(_purchase_, _all_, _report_, _clear_), an  error type message will be displayed (_"Uncorrect type of price." "Can`t connect with <http://fixer.io>"_).
 
 I used for JSON javax.json _javax.json-1.0.jar_
+
 WHAT's NEXT
 -----------
 
